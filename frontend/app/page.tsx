@@ -42,7 +42,7 @@ export default function Home() {
           transition={{ delay: 0.5, duration: 1 }}
           className="mt-16 text-center text-gray-500 text-sm"
         >
-          <p>Built with Next.js, Framer Motion & </p>
+          <p>Built with Next.js, Framer Motion & PocketBase 💜</p>
         </motion.div>
       </div>
     </div>
